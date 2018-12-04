@@ -6,7 +6,7 @@
 .div1{
     background-color: papayawhip;
     width: 20%;
-    height:1000px;
+    height:100vh;
     float: left;
 
 }
@@ -14,25 +14,25 @@
 .div2{
     background-color: green;
     width: 80%;
-    height: 200px;
+    height: 20vh;
     float: left;
 }
 .div3{
     background-color: white;
     width: 60%;
-    height: 600px;
+    height: 60vh;
     float: left;
 }
 .div4{
     background-color: grey;
     width: 20%;
-    height: 600px;
+    height: 60vh;
     float: left;
 
 }
 .div5{
     background-color: green;
     width: 80%;
-    height: 200px;
+    height: 20vh;
     float: left;
 }
